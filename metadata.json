@@ -1,0 +1,6 @@
+{
+  "name": "ERP & CRM Manufaktur Enterprise",
+  "description": "Enterprise ERP and CRM for Multi-Branch Manufacturing with MySQL Architecture",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
